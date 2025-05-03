@@ -1,0 +1,13 @@
+# requirements.txt
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+langchain-openai
+openai
+langchain-mistralai  # Add this for Mistral AI API
+mistralai            # Add this (client library)
+chromadb
+pypdf
+python-dotenv
+tiktoken             # Often needed by OpenAI/Mistral tokenizers
